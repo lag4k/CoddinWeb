@@ -1,0 +1,228 @@
+.menu1 {background-image: url('https://media.gazetadopovo.com.br/2025/02/05104526/filantropia.jpg');
+        background-size: cover;
+        margin: 0;
+        padding: 0;}
+.MP {background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJCTrusJnF3Lj3aNgzygg9kCu2e40H44q89McoVYLOAfBOKM1Lzcidl-en&s=10');
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+    margin: 0;
+    padding: 0;}
+.SN {background-image: url('https://image.slidesdocs.com/responsive-images/docs/brown-frame-green-leaves-white-beige-background-word-template_ae70318a94__1131_1600.jpg');
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+    margin: 0;
+    padding: 0;}
+.DA {background-image: url('https://img.magnific.com/vetores-premium/design-de-fundo-branco-abstrato-moderno_213683-2316.jpg');
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+    margin: 0;
+    padding: 0;}
+.CA {background-image: url('https://st2.depositphotos.com/17620692/44174/v/450/depositphotos_441744330-stock-illustration-luxury-gold-white-background-abstract.jpg');
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+    margin: 0;
+    padding: 0;}
+.titu {font-weight: 600;
+    font-size: 22px;}
+.cora {background-color: white;
+    height: 10px;
+    width: auto;}
+.coraçao {height: auto;
+    width: 85px;}
+.mao {height: auto;
+    width: 450px;
+    margin-left: 13%;
+    margin-top: 3%;}
+.menu {width: 1536px;
+    border-radius: 15px;
+    border: solid 5px;
+    border-color: black;
+    background-color: white;}
+.t1 {font-size: 30px;
+    font-weight: 800;
+    font-family: 'Lucida Sans';
+    text-align: center;
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;}
+.pacote1 {width: 350px;
+    height: 450px;
+    background-color: white;
+    opacity: 0.85;
+    border: 2px solid black;
+    border-radius: 5%;
+    font-size: 20px;}
+.pacote2 {width: 900px;
+    height: 165px;
+    background-color: white;
+    opacity: 0.85;
+    border: 1px solid black;
+    border-radius: 5%;}
+.lista {height: 500px;
+    width: 700px;
+    background-color: rgb(255, 250, 200);
+    border: rgb(208, 215, 0) 5px solid ;
+    border-radius: 15px;
+    margin-left: 45%;
+    margin-top: -32.5%;}
+.lista2 {height: 500px;
+    width: 400px;
+    background-color: rgb(255, 250, 200);
+    border: rgb(208, 215, 0) 5px solid ;
+    border-radius: 15px;
+    margin-left: 9%;
+    margin-top: 4%;}
+.casa {height: auto;
+    width: 300px;
+    margin-left: 48px;
+    margin-top: -10%;
+    border-radius: 20px;
+    border: rgb(235, 235, 0) 2px solid;}
+.casa2 {height: auto;
+    width: 130px;
+    margin-left: 48px;
+    margin-top: -10%;
+    border-radius: 20px;
+    border: rgb(235, 235, 0) 2px solid;}
+.nota {font-weight: 600;
+    background-color: white;
+    border-radius: 30px;
+    border-color: rgb(105, 105, 0);
+    border: 3px solid;}
+.nota2 { font-weight: 600;
+    background-color: white;
+    border-radius: 30px;
+    border-color: rgb(105, 105, 0);
+    border: 3px solid;
+    height: 50px;
+    width: 400px;
+    margin-right: 90%;}
+.note {color: white;
+    background-color: black;
+    border-radius: 15px;
+    height: 100px;
+    width: 200px;}
+.note2 {color: white;
+    background-color: black;
+    border-radius: 15px;
+    height: 100px;
+    width: 200px;}
+.perfil {width: 300px;
+    height: 400px;
+    margin-top: -1%;
+    margin-left: 60%;
+    background-color: rgb(200, 255, 240);
+    border-radius: 5%;
+    border: green solid 2px;}
+.texto {width: 290px;
+    border-radius: 10px;}
+.cad {margin-top: 10px;
+    width: 290px;
+    background-color: rgb(50, 200, 0);
+    border-radius: 10px;
+    border: rgb(60, 100, 0) solid 1px;
+    font-weight: 800;
+    cursor: pointer;
+    transition: background 0.1s, color 0.1s;}
+.cad:hover {background-color: rgb(170, 200, 165);
+    color: white;}
+.cada {margin-top: -28%;
+    margin-left: 61.6%;
+    background-color: rgb(255, 200, 200);
+    width: 240px;
+    border-radius: 5px;
+    border: red solid 2px;
+    font-family: courier new;
+    font-weight: 700;
+    color: rgb(70, 0, 0);}
+.goog {margin-top: 0%;
+    margin-left: 65%;
+    color: blue;
+    cursor: pointer;
+    font-weight: 100;
+    font-family: arial;
+    font-size: 16px;}
+.det {color: rgb(0, 107, 195);
+    font-family: monospace;
+    font-size: 20px;}
+.compai {height: 259px;
+    width: 393px;
+    border-radius: 15px;}
+.daria {font-size: 18px;
+    font-weight: 800;}
+.dari {font-size: 18px;
+    font-weight: 800;
+    margin-top: 25%;}
+.con {height: 30px;
+    width: 480px ;
+    border-radius: 6px;
+    background-color: rgb(140, 140, 170);
+    border: black 2px solid;}
+.doa {width: 500px;
+    height: 400px;
+    margin-top: 1px;
+    margin-left: 34%;
+    background-color: rgb(150, 150, 150);
+    border-radius: 5%;
+    border: black solid 4px;}
+.doar {margin-top: 3%;
+    margin-left: 44%;}
+.doa input[type="radio"] {
+    display: none !important;}
+.doa .doa1{display: inline-block;
+    cursor: pointer;
+    background-color: rgb(140, 140, 170);
+    border: black 2px solid;
+    border-radius: 6px;
+    text-align: center;
+    width: 114px ;
+    height: 30px;
+    font-size: 20px;
+    color: white;
+    transition: background 0.2s ease;
+    user-select: none;}
+.doa .doa1 :hover {
+    background-color: #ffffff;
+    border-color: #999;}
+.doa input[type="radio"]:checked + .doa1 {
+    background-color: #007bff;
+    color: white;
+    border-color: #5baaff;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);}
+.doa2{display: inline-block;
+    cursor: pointer;
+    background-color: rgb(140, 140, 170);
+    border: black 2px solid;
+    border-radius: 6px;
+    text-align: center;
+    width: 235px ;
+    height: 30px;
+    font-size: 20px;
+    color: white;
+    transition: background 0.2s ease;
+    user-select: none;}    
+.doa3{display: inline-block;
+    cursor: pointer;
+    background-color: rgb(140, 140, 170);
+    border: black 2px solid;
+    border-radius: 6px;
+    text-align: center;
+    width: 480px ;
+    height: 35px;
+    font-size: 20px;
+    color: white;
+    transition: background 0.2s ease;
+    user-select: none;}    
